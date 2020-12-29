@@ -4,5 +4,3 @@
 
 - 💼 I am currently working on [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)
 - 📫 You can reach me by Silker#4589 at [Discord](https://discord.com/)
-
-![](/Naxxathar.png)
