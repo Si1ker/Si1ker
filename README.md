@@ -1,4 +1,4 @@
-### Hello, I'm Silker 😺
+### Hello human!
 
 [![Silker's github stats](https://github-readme-stats.vercel.app/api?username=Si1ker&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/Si1ker)
 
