@@ -11,4 +11,4 @@
 [fix(scripts/Naxx): The art of Naxxramas (2/2)](https://github.com/azerothcore/azerothcore-wotlk/pull/5057/files)
 
 ### My contributions to the World Of Warcraft Open Source:
-[Silker on AzerothCore - All Pull Requests](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ASi1ker+is%3Aclosed)
+[Silker on AzerothCore - All Pull Requests](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ASi1ker+is%3Aclosed+sort%3Acomments-desc)
