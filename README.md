@@ -1,6 +1,6 @@
 ### Hello human!
 
-I'm Eddy Vega, (a.k.a 'Silker')
+I'm Eddy Vega, (aka 'Silker')
 
 I am a 23-year-old Azure architect from Costa Rica. <img src="azureSolutionsArchitect.png" width=75px height=75px />
 
