@@ -12,6 +12,6 @@ I am a 24-year-old Azure architect from Costa Rica. <img src="azureSolutionsArch
 
 - 📫 Contact: Look for me as "silker" on [Discord](https://discord.com/)
 
-- 👨‍💻 Open-source: Check my c++/sql contributions to World Of Warcraft on [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ASi1ker+is%3Aclosed+sort%3Acomments-desc)
+- 👨‍💻 Open-source: Check my c++/sql contributions to World of Warcraft on [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ASi1ker+is%3Aclosed+sort%3Acomments-desc)
 
 
