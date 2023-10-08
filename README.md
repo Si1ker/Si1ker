@@ -8,7 +8,7 @@ I am a 24-year-old Azure architect from Costa Rica. <img src="azureSolutionsArch
 
 - 👨‍💻 Work: Connect with me on [LinkedIn](https://www.linkedin.com/in/eddyvegah/)
 
-- 📚 Study: Verify all my badges on [Credly](https://www.credly.com/users/eddy-vega)
+- 📚 Study: Verify my Microsoft certifications on [Microsoft Learn](https://learn.microsoft.com/en-us/users/eddyvega/transcript/d5e5gb315e1nxyr?source=docs) and badges on [Credly](https://www.credly.com/users/eddy-vega)
 
 - 📫 Contact: Look for me as "silker" on [Discord](https://discord.com/)
 
